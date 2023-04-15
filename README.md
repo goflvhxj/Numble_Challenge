@@ -14,7 +14,7 @@
 - 나이스 제공 데이터에 외부 데이터를 결합해 설명변수로 활용하고 부도 여부를 타겟 변수로 활용
     - Logistic Regression, Random Forest 등 분류 모델링을 통해 기업 부도를 예측
     - 평가 지표 : Accuracy, AUC 등
-  
+<br/>  
   
 ## 진행 과정  
 
