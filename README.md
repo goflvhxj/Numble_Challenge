@@ -1,4 +1,4 @@
-# Numble_Challenge
+# NUMBLE Challenge
 
 ## Mission : 비재무 데이터를 활용한 중소기업 휴.폐업 예측 모형 구축
 
